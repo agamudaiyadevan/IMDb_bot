@@ -1,8 +1,7 @@
 # IMDb Telegram Bot 
 Telegram bot to fetch details and ratings for any movie or TV Show
 
-### Bot username: @imdb7_bot
-### Use this [link](http://t.me/imdb7_bot) to access the bot on Telegram
+### Use this [@tharamaanaimdbot](http://t.me/tharamaanaimdbot) to access the bot on Telegram
 
 ![telegram_image](https://github.com/Karan-Malik/IMDb_bot/blob/master/image.JPG?raw=true)
 <br><br>
