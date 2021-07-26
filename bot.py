@@ -11,7 +11,7 @@ import json
 import imdb
 import os
 PORT = int(os.environ.get('PORT', 5000))
-api_key= #Enter your Telegram bot token
+api_key= 1937537317:AAH2Buc8-pNkmhBQNH5TcPECQlXsJThWjBI
 ia = imdb.IMDb() 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
@@ -55,7 +55,7 @@ def reply(update, context):
 
 def main():
 
-    updater = Updater("1476373283:AAHrdQE394_J8qd78J974y_AwVdwrsis1r0", use_context=True)
+    updater = Updater("1937537317:AAH2Buc8-pNkmhBQNH5TcPECQlXsJThWjBI", use_context=True)
     dp = updater.dispatcher
     
     dp.add_handler(CommandHandler("start", start))
