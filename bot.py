@@ -2,7 +2,7 @@
 """
 Created on Fri Dec 25 20:24:17 2020
 
-@author: karan
+[@tharamaanaimdbot](https://telegram.me/tharamaanaimdbot)
 """
 import logging
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
